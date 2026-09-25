@@ -1,0 +1,12 @@
+{
+  "name": "caderno-invita-webapp",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Caderno Interativo de Estudo - Invita: login, registro de acessos e hospedagem.",
+  "scripts": {
+    "criar-vendedores": "node scripts/criar-vendedores.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.6.0"
+  }
+}
